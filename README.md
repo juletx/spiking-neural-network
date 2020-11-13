@@ -1,4 +1,4 @@
-# Project 34: Implementation of neural codes using a spiking neuron model
+# Project 44: Simulating the Izhikevich spiking neuron model usingthe Brian2 software
 
 ## Authors: Julen Etxaniz and Ibon Urbina
 
@@ -6,7 +6,9 @@
 
 ## Date: 22/11/2020
 
-## Description: This repository contains:
+## Objective: The goal of the project is to implement the Izhikevich’s model using the Brian2 Python library https://brian2.readthedocs.io/en/stable/.
+
+## Contents:
 
 ### 1. Project description
 
@@ -14,8 +16,6 @@
 
 ### 3. Relevant papers
 
-### 4. Jupyter Notebooks from Brian2 tutorial
+### 4. Jupyter Notebooks from Brian2 demo and tutorial
 
 ### 5. Jupyter Notebook with the implementation
-
-## Objective: The goal of the project is to implement one of the reported methods of computation with spikes, or a new one, and demonstrate its application to a theoretical or practical problem.
