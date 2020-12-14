@@ -1,0 +1,21 @@
+Ibon Urbina and Julen Etxaniz
+P44_Izhikevich_SNN_Model_NN_D2
+           
+Mark: 9.25
+
+Positive points:
+ - The main goal of the project has been achieved.
+ - There is a good revision of previous work on the Izhikevich model
+ - The project required an in-depth analysis of the brian2 library
+ - The report is detailed and with a good visualization of the simulations.
+ - There was good work at defining the set of functions to cover all cases
+ - The simulations tried were extended to consider a networks of neurons that can be scaled to consider a large number of neurons.
+ - The Notebook is well commented.
+ - The writing and organization in the report are very good.
+ - There is a good discussion of results, and in particular of the limitations of the approaches, in the conclusions
+ - References were considered and added to the bibliography.
+ 
+
+Negative points:
+  - One of the patterns could not be replicated.
+  - There are some few typos and grammatical errors in the report.
